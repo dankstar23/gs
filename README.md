@@ -56,3 +56,8 @@ python3 blender/build_blaster.py --out renders/blaster.png
 
 Options: `--samples N`, `--percent 50` (quick preview), `--width/--height`,
 `--border X0 X1 Y0 Y1` (render only a region), `--no-render` (build only).
+
+## Otros proyectos en este repositorio
+
+- [Las Crónicas de Renzo](renzo/README.md): beat 'em up de 16 bits jugable en el
+  navegador, en un solo archivo HTML (`renzo/las-cronicas-de-renzo.html`).
